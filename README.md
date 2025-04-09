@@ -19,13 +19,13 @@ Traveler's Compass is a modern and user-friendly web application designed for tr
 
 
 # 🧰Technologies
-HTML5: Structural foundation.
-CSS3: Modern and customized styling (Google Fonts, CSS Variables).
-JavaScript: Interactive features (menu toggle, Swiper slider).
+- HTML5: Structural foundation.
+- CSS3: Modern and customized styling (Google Fonts, CSS Variables).
+- JavaScript: Interactive features (menu toggle, Swiper slider).
 Libraries:
-Remix Icon - Icon set.
-Swiper - Slider component.
-ScrollReveal - Visual animations.
+- Remix Icon - Icon set.
+- Swiper - Slider component.
+- ScrollReveal - Visual animations.
 
 # 📧 Contact
 yusufyamanjob@gmail.com
