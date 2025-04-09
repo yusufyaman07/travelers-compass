@@ -8,14 +8,14 @@ Traveler's Compass is a modern and user-friendly web application designed for tr
 
 # 🌟Features
 
-Home: Welcomes users with a striking hero section and quickly directs them to plan a trip.
-About: Describes the mission of the project and the value it offers to users.
-Tours: Offers a variety of tour options such as jungle adventures, mountain climbs, beach vacations and city tours.
-Destinations: Includes price and duration information for popular destinations such as Paris, Bali and Dubai.
-Reviews: Showcases real user experiences and 5-star reviews.
-Blog: Provides up-to-date articles on travel tips and hidden destinations.
-Responsive Design: Works seamlessly across mobile, tablet and desktop devices.
-Animations: Impressive transition effects with ScrollReveal and Swiper libraries.
+- Home: Welcomes users with a striking hero section and quickly directs them to plan a trip.
+- About: Describes the mission of the project and the value it offers to users.
+- Tours: Offers a variety of tour options such as jungle adventures, mountain climbs, beach vacations and city tours.
+- Destinations: Includes price and duration information for popular destinations such as Paris, Bali and Dubai.
+- Reviews: Showcases real user experiences and 5-star reviews.
+- Blog: Provides up-to-date articles on travel tips and hidden destinations.
+- Responsive Design: Works seamlessly across mobile, tablet and desktop devices.
+- Animations: Impressive transition effects with ScrollReveal and Swiper libraries.
 
 
 # 🧰Technologies
